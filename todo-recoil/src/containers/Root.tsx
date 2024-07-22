@@ -1,4 +1,3 @@
-import React from "react";
 import { RecoilRoot } from "recoil";
 import AddTodo from "../components/AddTodo";
 import TodoList from "../components/TodoList";
